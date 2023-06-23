@@ -1,2 +1,5 @@
 # Datasets
-Sample and dummy Datasets for testing and practicing.
+
+Sample, dummy data datasets for testing and practicing.
+
+Thanks
