@@ -1,6 +1,6 @@
 # Dataset
 
-Sample, dummy data datasets for testing and practicing.
+Collection of sample, dummy data datasets for testing and practicing.
 
 ## LOS ANGELES OPEN DATA
 
